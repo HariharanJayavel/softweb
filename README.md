@@ -1185,10 +1185,12 @@ index.html
 
 
 ## OUTPUT:
-![Alt text](<Screenshot (7).png>)
-![Alt text](<Screenshot (8).png>)
-![Alt text](<Screenshot (9).png>)
-![Alt text](<Screenshot (10).png>)
+![Screenshot (7)](https://github.com/HariharanJayavel/softweb/assets/144870546/c993e71f-5645-4a9e-a235-140cd19507f2)
+![Screenshot (8)](https://github.com/HariharanJayavel/softweb/assets/144870546/b997b815-39d4-48a4-80bf-62bcf320a00f)
+![Screenshot (9)](https://github.com/HariharanJayavel/softweb/assets/144870546/ef42f674-7281-48e6-9c51-0a476aafd486)
+![Screenshot (10)](https://github.com/HariharanJayavel/softweb/assets/144870546/a49cf8ab-4f1e-4679-9ca2-2b89d38ace42)
+
+
 
 
 ## RESULT:
